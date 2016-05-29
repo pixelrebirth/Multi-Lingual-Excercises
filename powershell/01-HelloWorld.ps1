@@ -7,7 +7,5 @@ switch -regex ($Name) {
 }
 return $WelcomeMessage
 
-# Objective summary: To create a script that prompts for a name then sends a different message based on the name entered. 
-# Input/cat/return must be seperate
-
+# Create a script that prompts for a name then sends a different message based on the name entered. Input/cat/return must be seperate
 # Hogan, Brian P.. Exercises for Programmers: 57 Challenges to Develop Your Coding Skills (Kindle Locations 392-393). Pragmatic Bookshelf. Kindle Edition. 

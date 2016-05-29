@@ -6,4 +6,5 @@ $author = read-host "What is the author"
 
 return $("The author " + $author + " once said, `"" + $quote + "`"")
 
-#Using a list, write a quote and prompt for the auth, concatenate the results in a return statement
+# Using a list, write a quote and prompt for the auth, concatenate the results in a return statement
+# Hogan, Brian P.. Exercises for Programmers: 57 Challenges to Develop Your Coding Skills (Kindle Locations 392-393). Pragmatic Bookshelf. Kindle Edition. 
